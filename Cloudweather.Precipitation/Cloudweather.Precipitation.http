@@ -1,6 +1,0 @@
-@Cloudweather.Precipitation_HostAddress = http://localhost:5082
-
-GET {{Cloudweather.Precipitation_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
