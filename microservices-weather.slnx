@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Cloudweather.DataLoader/Cloudweather.DataLoader.csproj" />
+  <Project Path="Cloudweather.Precipitation/Cloudweather.Precipitation.csproj" />
+  <Project Path="Cloudweather.Report/Cloudweather.Report.csproj" />
+  <Project Path="Cloudweather.Temperature/Cloudweather.Temperature.csproj" />
+</Solution>
