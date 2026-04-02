@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cloudweather.DataLoader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b4f14f3f882a58fa64df7192edfc43697d9b5ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cloudweather.DataLoader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cloudweather.DataLoader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
